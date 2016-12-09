@@ -1,0 +1,7 @@
+C:\Users\Cameron.Hughes\documents\visual studio 2012\Projects\DubStep\DubStep\bin\Debug\DubStep.dll
+C:\Users\Cameron.Hughes\documents\visual studio 2012\Projects\DubStep\DubStep\bin\Debug\DubStep.pdb
+C:\Users\Cameron.Hughes\documents\visual studio 2012\Projects\DubStep\DubStep\bin\Debug\nunit.framework.dll
+C:\Users\Cameron.Hughes\documents\visual studio 2012\Projects\DubStep\DubStep\bin\Debug\nunit.framework.xml
+C:\Users\Cameron.Hughes\documents\visual studio 2012\Projects\DubStep\DubStep\obj\Debug\DubStep.dll
+C:\Users\Cameron.Hughes\documents\visual studio 2012\Projects\DubStep\DubStep\obj\Debug\DubStep.pdb
+C:\Users\Cameron.Hughes\Documents\Visual Studio 2012\Projects\DubStep\DubStep\obj\Debug\DubStep.csprojResolveAssemblyReference.cache
