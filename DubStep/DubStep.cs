@@ -3,12 +3,6 @@ using NUnit.Framework;
 
 namespace DubStep
 {
-    public class StringHelper
-    {
-        public static string SingleSpace = " ";
-        public static string DoubleSpace = "  ";
-    }
-
     public abstract class DJ
     {
         public string RemixValue;
